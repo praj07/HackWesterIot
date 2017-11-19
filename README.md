@@ -34,7 +34,7 @@ In terms of the **Arduino simulation**, the following steps will be for **all us
 2) Complete the wiring on a Arduino development board with an ATmega328P microcontroller, 12 digital I/O pins, an analog I/O pin, and a switch
 3) Ensure the board is connected to your laptop, and the port is correctly set
 4) In the Arduino code, you are able to change which direction the emergency vehicle is coming from. This is automatically set to "bottom" but can also be "left," "right," or "top"
-5) Upload the "" file to the board
+5) Upload the "Traffic_Light_Code_Final" file to the board
 6) The regular traffic light system will run on the board. To simulate the emergency vehicle scenario, flip the switch and observe the changes
 7) The switch can be flipped again to return the traffic light system to normal after the vehicle has passed
 
