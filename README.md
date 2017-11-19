@@ -1,6 +1,6 @@
 # Response Abil-IoT: An Emergency Vehicle Protocol
 
-## Intro 
+## Introduction
 In times of emergency, vehicles are dispatched to a specific location but will lose an average of 4-7 minutes in their response time, simply from having to stop at intersections and making sure there are no vehicles coming from all other directions. As well, accidents involving an emergency response vehicle is a very common and substantial issues.
 
 **Response Abil-IoT** is a system that works to improve emergency vehicle response time and decrease associated risks by optimizing routes and traffic signals, to make the city a safer place. It takes into consideration the following elements: 
@@ -22,7 +22,7 @@ After following these steps, the shortest (least cost) path, will be displayed t
 
 For the **route simulation**, complete the following steps for **all users**:
 
-1) Download Processive 3.3.6 (https://github.com/processing/processing/releases/tag/processing-0263-3.3.6)
+1) Download Processing 3.3.6 (https://github.com/processing/processing/releases/tag/processing-0263-3.3.6)
 2) Open "FireStationPath.pde" and "Firetruck.pde" in one Processing window
 3) Run the pre-defined simulation
 
