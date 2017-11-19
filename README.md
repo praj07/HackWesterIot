@@ -11,7 +11,7 @@ In times of emergency, vehicles are dispatched to a specific location but will l
 ## Build & Run
 There are 3 different aspects of this project; the route finding algorithm, the route simulation, and the arduino which simulates the system respnses in actual traffic intersection scenarios. 
 
-For the route finding algorithm, the following steps will be for **all users**:
+For the **route finding algorithm**, the following steps will be for **all users**:
 
 1) Run "dijkstra.c" in an c-compatible IDE of your choice
 2) Enter the value for "number of vertices," which will be the side length of the generated road map matrix
@@ -20,7 +20,7 @@ For the route finding algorithm, the following steps will be for **all users**:
 
 After following these steps, the shortest (least cost) path, will be displayed to you. 
 
-For the route simulation, complete the following steps for **all users**:
+For the **route simulation**, complete the following steps for **all users**:
 
 1) Download Processive 3.3.6 (https://github.com/processing/processing/releases/tag/processing-0263-3.3.6)
 2) Open "FireStationPath.pde" and "Firetruck.pde" in one Processing window
@@ -28,7 +28,7 @@ For the route simulation, complete the following steps for **all users**:
 
 This is only for simulation purposes and shows how paths are chosen and changed based on external factors. 
 
-In terms of Arduino, the following steps will be for **all users**: 
+In terms of the **Arduino simulation**, the following steps will be for **all users**: 
 
 1) Download Arduino (https://github.com/arduino/Arduino)
 2) Complete the wiring on a Arduino development board with an ATmega328P microcontroller, 12 digital I/O pins, an analog I/O pin, and a switch
